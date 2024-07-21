@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Eugenenoble2005/chesscheat#readme",
   "dependencies": {
-    "stockfish.wasm": "^0.10.0"
+    "stockfish.wasm": "^0.16.1" 
   }
 }
