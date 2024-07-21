@@ -7,10 +7,10 @@
  "128": "icon.png" },
  "browser_specific_settings": {
   "gecko": {
-    "id": "chesscheatextension@gmail.com"
+    
   }
 },
-  "description": "Always see the optimal move in any chess.com game. Guarantees wins almost 100% of the time",
+  "description":,
   "content_scripts": [
     {
       "js": ["scripts/main.js"],
